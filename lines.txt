@@ -1,3 +1,4 @@
 first line
 one more line
-the last line in the local repository
+the last line
+
